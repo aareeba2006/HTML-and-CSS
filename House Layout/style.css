@@ -1,0 +1,19 @@
+h1 {
+  color: palevioletred;
+}
+
+.Bed-Room {
+    background-color:  lightblue;
+}
+
+#Kitchen {
+    color: orange;
+}
+
+.House>div {
+    background-color: lightgrey;
+}
+
+.living-room+div {
+    background-color: rgb(49, 128, 0);
+}
